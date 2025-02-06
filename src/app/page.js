@@ -8,7 +8,7 @@ export default function Home() {
       <div className="main-content">
         <div className="featured-work">
           <Image
-            src="/images/home_page_photo.jpg"
+            src="/home_page_photo.jpg"
             alt="Featured artwork"
             width={800}
             height={600}

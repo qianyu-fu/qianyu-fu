@@ -9,7 +9,7 @@ export default function About() {
         <div className="about-container">
           <div className="about-image">
             <Image
-              src="/images/selfie.jpg"
+              src="/selfie.jpg"
               alt="Qianyu Fu"
               width={400}
               height={400}

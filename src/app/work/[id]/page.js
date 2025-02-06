@@ -4,21 +4,21 @@ import Image from 'next/image'
 const works = {
   'lunar-leporidae': {
     title: 'Lunar Leporidae: A Study in Moonlit Movements',
-    images: ['/images/rabbit_1.jpg'],
+    images: ['/rabbit_1.jpg'],
     year: '2024',
     medium: 'Mixed Media Installation, Video Projection',
     dimensions: '12 x 15 feet'
   },
   'warren-whispers': {
     title: 'Warren Whispers: The Architecture of Underground Dreams',
-    images: ['/images/rabbit_2.webp'],
+    images: ['/rabbit_2.webp'],
     year: '2023',
     medium: 'Soil, Wood, Fiber Optics, Sound Installation',
     dimensions: 'Variable'
   },
   'rabbit-resonance': {
     title: 'Rabbit Resonance: Frequencies of Fear and Freedom',
-    images: ['/images/rabbit_7.jpg', '/images/rabbit_8.webp'],
+    images: ['/rabbit_7.jpg', '/rabbit_8.webp'],
     year: '2024',
     medium: 'Sound Installation, Binaural Audio, Environmental Sensors',
     dimensions: 'Variable'
@@ -26,11 +26,11 @@ const works = {
   'go-fishing': {
     title: 'Go Fishing',
     images: [
-      '/images/go_fishing_1.jpg',
-      '/images/go_fishing_2.jpg',
-      '/images/go_fishing_3.jpg',
-      '/images/go_fishing_4.jpg',
-      '/images/go_fishing_5.jpg'
+      '/go_fishing_1.jpg',
+      '/go_fishing_2.jpg',
+      '/go_fishing_3.jpg',
+      '/go_fishing_4.jpg',
+      '/go_fishing_5.jpg'
     ],
     year: '2023',
     medium: 'Mixed Media',
@@ -39,10 +39,10 @@ const works = {
   'fake-money': {
     title: 'Use fake money to buy fake guns',
     images: [
-      '/images/use_fake_money_to_buy_fake_guns_1.jpg',
-      '/images/use_fake_money_to_buy_fake_guns_2.jpg',
-      '/images/use_fake_money_to_buy_fake_guns_3.jpg',
-      '/images/use_fake_money_to_buy_fake_guns_4.jpg'
+      '/use_fake_money_to_buy_fake_guns_1.jpg',
+      '/use_fake_money_to_buy_fake_guns_2.jpg',
+      '/use_fake_money_to_buy_fake_guns_3.jpg',
+      '/use_fake_money_to_buy_fake_guns_4.jpg'
     ],
     year: '2023',
     medium: 'Mixed Media',
@@ -51,8 +51,8 @@ const works = {
   '17-feet': {
     title: '17 feet by 12 inches',
     images: [
-      '/images/17_feet_by_12_inches_1.jpg',
-      '/images/17_feet_by_12_inches_2.jpg'
+      '/17_feet_by_12_inches_1.jpg',
+      '/17_feet_by_12_inches_2.jpg'
     ],
     year: '2023',
     medium: 'Mixed Media',
@@ -61,9 +61,9 @@ const works = {
   'untitled': {
     title: 'Untitled',
     images: [
-      '/images/utitled_1.jpg',
-      '/images/utitled_2.jpg',
-      '/images/utitled_3.jpg'
+      '/utitled_1.jpg',
+      '/utitled_2.jpg',
+      '/utitled_3.jpg'
     ],
     year: '2023',
     medium: 'Mixed Media',
@@ -72,11 +72,11 @@ const works = {
   'ideology-of-truth': {
     title: 'The Ideology of Truth',
     images: [
-      '/images/the_ideology_of_truth_1.jpg',
-      '/images/the_ideology_of_truth_2.jpg',
-      '/images/the_ideology_of_truth_3.jpg',
-      '/images/the_ideology_of_truth_4.jpg',
-      '/images/the_ideology_of_truth_5.jpg'
+      '/the_ideology_of_truth_1.jpg',
+      '/the_ideology_of_truth_2.jpg',
+      '/the_ideology_of_truth_3.jpg',
+      '/the_ideology_of_truth_4.jpg',
+      '/the_ideology_of_truth_5.jpg'
     ],
     year: '2023',
     medium: 'Mixed Media',
@@ -85,9 +85,9 @@ const works = {
   'nimitta': {
     title: 'Nimitta',
     images: [
-      '/images/nimitta_1.jpg',
-      '/images/nimitta_2.jpg',
-      '/images/nimitta_3.jpg'
+      '/nimitta_1.jpg',
+      '/nimitta_2.jpg',
+      '/nimitta_3.jpg'
     ],
     year: '2023',
     medium: 'Mixed Media',
@@ -96,9 +96,9 @@ const works = {
   'concrete-and-glass': {
     title: 'Concrete and Glass',
     images: [
-      '/images/concrete_and_glass_1.jpg',
-      '/images/concrete_and_glass_2.jpg',
-      '/images/concrete_and_glass_3.jpg'
+      '/concrete_and_glass_1.jpg',
+      '/concrete_and_glass_2.jpg',
+      '/concrete_and_glass_3.jpg'
     ],
     year: '2023',
     medium: 'Mixed Media',
@@ -106,7 +106,7 @@ const works = {
   },
   'chair': {
     title: 'Chair',
-    images: ['/images/chair_1.jpg'],
+    images: ['/chair_1.jpg'],
     year: '2023',
     medium: 'Mixed Media',
     dimensions: 'Variable'
@@ -114,8 +114,8 @@ const works = {
   'city-memories': {
     title: 'City Memories',
     images: [
-      '/images/city_memories_1.jpg',
-      '/images/city_memories_2.jpg'
+      '/city_memories_1.jpg',
+      '/city_memories_2.jpg'
     ],
     year: '2023',
     medium: 'Mixed Media',
@@ -124,11 +124,11 @@ const works = {
   'walking-on-the-street': {
     title: 'Walking on the Street',
     images: [
-      '/images/walking_on_the_street_1.jpg',
-      '/images/walking_on_the_street_2.jpg',
-      '/images/walking_on_the_street_3.jpg',
-      '/images/walking_on_the_street_4.jpg',
-      '/images/walking_on_the_street_5.jpg'
+      '/walking_on_the_street_1.jpg',
+      '/walking_on_the_street_2.jpg',
+      '/walking_on_the_street_3.jpg',
+      '/walking_on_the_street_4.jpg',
+      '/walking_on_the_street_5.jpg'
     ],
     year: '2023',
     medium: 'Mixed Media',
@@ -137,10 +137,10 @@ const works = {
   'way-back-home': {
     title: 'The Way Back Home',
     images: [
-      '/images/the_way_back_home_1.jpg',
-      '/images/the_way_back_home_2.jpg',
-      '/images/the_way_back_home_3.jpg',
-      '/images/the_way_back_home_4.jpg'
+      '/the_way_back_home_1.jpg',
+      '/the_way_back_home_2.jpg',
+      '/the_way_back_home_3.jpg',
+      '/the_way_back_home_4.jpg'
     ],
     year: '2023',
     medium: 'Mixed Media',
@@ -148,7 +148,7 @@ const works = {
   },
   'standing': {
     title: 'Standing',
-    images: ['/images/standing_1.jpg'],
+    images: ['/standing_1.jpg'],
     year: '2023',
     medium: 'Mixed Media',
     dimensions: 'Variable'
