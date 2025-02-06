@@ -37,15 +37,6 @@ node_modules/
 .DS_Store
 
 # images
-*.jpg
-*.jpeg
-*.png
-*.gif
-*.bmp
-*.webp
-*.tiff
-*.ico
-*.svg
 
 # build output
 /out/
